@@ -1,0 +1,10 @@
+{
+  "package-name": "nkappler-airport-edgx-walldorf",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "EDGX",
+      "revision": 1
+    }
+  ]
+}

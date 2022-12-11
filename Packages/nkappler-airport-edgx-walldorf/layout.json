@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/nkappler-airport-edgx-walldorf/ContentHistory.json",
+      "size": 154,
+      "date": 133146459163016012
+    },
+    {
+      "path": "ContentInfo/nkappler-airport-edgx-walldorf/Thumbnail.jpg",
+      "size": 33651,
+      "date": 133145842283650172
+    },
+    {
+      "path": "Scenery/airport-edgx-walldorf/scenery/EDGX.bgl",
+      "size": 7506,
+      "date": 133146459162985984
+    }
+  ]
+}
