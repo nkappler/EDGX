@@ -8,7 +8,7 @@
 
 1. Lade die [aktuellste Version](https://github.com/nkappler/EDGX/releases/latest) `EDGX.zip` herunter
 2. Finde das Installationsverzeichnis von Microsoft Flight Simulator 2020
-3. Entpacke die heruntergeladene Zip-Datei im `Community` Ordner.
+3. Entpacke die heruntergeladene Zip-Datei im `Community` Ordner
 4. Die Ordnerstruktur sollte dann so aussehen:
     ```filesystem
     Microsoft Flight Simulator/
