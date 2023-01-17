@@ -11,12 +11,12 @@
 3. Entpacke die heruntergeladene Zip-Datei im `Community` Ordner
 4. Die Ordnerstruktur sollte dann so aussehen:
     ```filesystem
-    Microsoft Flight Simulator/
-    ├─Community/
-      ├─EDGX/
-        ├─ContentInfo/
-        ├─Scenery/
-        ├─layout.json
-        ├─manifest.json
+    📁 Microsoft Flight Simulator/
+       ├📁 Community/
+           ├📁 EDGX/
+               ├📁 ContentInfo/
+               ├📁 Scenery/
+               ├📄 layout.json
+               ├📄 manifest.json
     ```
 5. Starte Microsoft Flight Simulator neu
