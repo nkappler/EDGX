@@ -19,3 +19,4 @@
         ├─layout.json
         ├─manifest.json
     ```
+5. Starte Microsoft Flight Simulator neu
